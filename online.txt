@@ -1,0 +1,1 @@
+1] wget https://github.com/MdAbuHassan19/A/blob/main/online.sh && bash online.sh
